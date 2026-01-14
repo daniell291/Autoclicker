@@ -1,8 +1,7 @@
 # Autoclicker
 simple Autoclicker in python <br />
-WARNING: This software can get you BANNED in games <br />
-to toggle press F8 <br />
-<br />
+## How to use
+**How to toggle?:** press F8 <br />
 ## Features
 Fast clicking <br />
 Easy use<br />
