@@ -1,6 +1,6 @@
 # Autoclicker
 simple Autoclicker in python <br />
-WARNING: This program can get you BANNED in games <br />
+WARNING: This software can get you BANNED in games <br />
 to toggle press F8 <br />
 <br />
 ## Features
