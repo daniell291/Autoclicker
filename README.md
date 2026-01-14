@@ -1,7 +1,7 @@
 # Autoclicker
 simple Autoclicker in python <br />
 ## How to use
-**How to toggle?:** press F8 <br />
+To toggle press F8 <br />
 ## Features
 Fast clicking <br />
 Easy use<br />
