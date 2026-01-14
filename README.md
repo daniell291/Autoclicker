@@ -6,5 +6,5 @@ to toggle press F8 <br />
 ## Fetures
 Fast clicking <br />
 Eazy use<br />
-<br />
+##<br />
 **Disclaimer:** Use this software at your own risk.
